@@ -8,7 +8,7 @@ To use this template:
 * Fork this repository on GitHub
 * Install the node dependencies: ```npm install```
 * Next, install the bower dependencies: ```bower install```
-* Ensure you have a global version of Gulp installed: ```gulp -v``` the output should look something like this (note the "CLI version"):
+* Ensure you have a global version of Gulp installed: ```gulp -v``` the output should look something like this (note the ```CLI version```):
 
 ```Shell
 [14:48:27] CLI version 3.9.0
