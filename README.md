@@ -1,13 +1,14 @@
 # [Start Bootstrap](http://startbootstrap.com/) - [Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) with [Gulp](http://gulpjs.com/)
 
-[Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/) with Gulp integration for easy, seamless development.
 
 ## Getting Started
 
 To use this template:
 * Fork this repository on GitHub
-* Install the node dependencies ```npm install```
-* Next, install the bower dependencies```bower install```
+* Install the node dependencies: ```npm install```
+* Next, install the bower dependencies: ```bower install```
+* Ensure you have a global version of Gulp installed: ```gulp -v``` (If you don't, you can install it with ```npm install -g gulp```)
 * Finally, run ```gulp``` to build the project and have it open in your browser window
 
 ## Bugs and Issues
@@ -25,7 +26,7 @@ Start Bootstrap was created by and is maintained by **David Miller**, Managing P
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Gulp integration was added by **Don Schrimsher**, co-founder of [Noomatech](http://noomatech.com)
+Gulp integration was added by **Don Schrimsher**, co-founder of [Noomatech](http://noomatech.com).
 
 * https://twitter.com/don4thirteen
 * https://github.com/donald-s
