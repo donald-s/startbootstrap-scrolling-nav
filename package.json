@@ -1,0 +1,28 @@
+{
+  "name": "noomatech",
+  "version": "1.0.0",
+  "description": "Nooma Technologies, LLC. website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donald-s/noomatech.git"
+  },
+  "author": "Donald L. Schrimsher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donald-s/noomatech/issues"
+  },
+  "homepage": "https://github.com/donald-s/noomatech#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.1.0",
+    "gulp-webserver": "^0.9.1",
+    "wiredep": "^2.2.2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "noomatech",
+  "description": "Nooma Technologies, LLC. website",
+  "main": "index.js",
+  "authors": [
+    "Donald L. Schrimsher"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/donald-s/noomatech",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "jquery-easing-original": "~1.3.2"
+  }
+}
