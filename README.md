@@ -9,10 +9,12 @@ To use this template:
 * Install the node dependencies: ```npm install```
 * Next, install the bower dependencies: ```bower install```
 * Ensure you have a global version of Gulp installed: ```gulp -v``` the output should look something like this (note the "CLI version"):
+
 ```
 [14:48:27] CLI version 3.9.0
 [14:48:27] Local version 3.9.0
-``` If you don't have gulp installed globally, you can install it with ```npm install -g gulp```
+```
+If you don't have gulp installed globally, you can install it with ```npm install -g gulp```
 * Finally, run ```gulp``` to build the project and have it open in your browser window
 
 ## Bugs and Issues
