@@ -1,6 +1,6 @@
 # [Start Bootstrap](http://startbootstrap.com/) - [Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) with [Gulp](http://gulpjs.com/)
 
-[Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/) with Gulp integration for easy, seamless development.
+[Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/) with [Gulp](http://gulpjs.com/) integration for easy, seamless development.
 
 ## Getting Started
 
@@ -8,7 +8,11 @@ To use this template:
 * Fork this repository on GitHub
 * Install the node dependencies: ```npm install```
 * Next, install the bower dependencies: ```bower install```
-* Ensure you have a global version of Gulp installed: ```gulp -v``` (If you don't, you can install it with ```npm install -g gulp```)
+* Ensure you have a global version of Gulp installed: ```gulp -v``` the output should look something like this (note the "CLI version"):
+```
+[14:48:27] CLI version 3.9.0
+[14:48:27] Local version 3.9.0
+``` If you don't have gulp installed globally, you can install it with ```npm install -g gulp```
 * Finally, run ```gulp``` to build the project and have it open in your browser window
 
 ## Bugs and Issues
