@@ -16,7 +16,7 @@ To use this template:
 ```
 If you don't have gulp installed globally, you can install it with ```npm install -g gulp```
 * This project uses [LiveReload](http://livereload.com/). You'll need to have it installed for the livereload integration in Gulp. I recommend the [Chrome extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei).
-* Finally, run ```gulp``` to build the project and have it open in your browser window. Changes should be reflected instantly thanks to LiveReload.
+* Finally, run ```gulp``` to build the project and have it open in your browser window. If for whatever reason the browser window doesn't open automatically, navigate to localhost:8000 in your browser to view the site. Changes should be reflected instantly thanks to LiveReload.
 
 ## Bugs and Issues
 
