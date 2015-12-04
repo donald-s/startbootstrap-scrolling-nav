@@ -33,7 +33,7 @@ Start Bootstrap was created by and is maintained by **David Miller**, Managing P
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Gulp integration was added by **Don Schrimsher**, co-founder of [Noomatech](http://noomatech.com).
+Gulp integration was added by **Don Schrimsher**, Co-founder of [Noomatech](http://noomatech.com).
 
 * https://twitter.com/don4thirteen
 * https://github.com/donald-s
