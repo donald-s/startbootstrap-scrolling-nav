@@ -10,7 +10,7 @@ To use this template:
 * Next, install the bower dependencies: ```bower install```
 * Ensure you have a global version of Gulp installed: ```gulp -v``` the output should look something like this (note the "CLI version"):
 
-```
+```Shell
 [14:48:27] CLI version 3.9.0
 [14:48:27] Local version 3.9.0
 ```
