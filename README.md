@@ -15,7 +15,8 @@ To use this template:
 [14:48:27] Local version 3.9.0
 ```
 If you don't have gulp installed globally, you can install it with ```npm install -g gulp```
-* Finally, run ```gulp``` to build the project and have it open in your browser window
+* This project uses [LiveReload](http://livereload.com/). I recommend the [Chrome extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei).
+* Finally, run ```gulp``` to build the project and have it open in your browser window. Changes should be reflected instantly thanks to LiveReload.
 
 ## Bugs and Issues
 
